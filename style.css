@@ -1,0 +1,108 @@
+header{
+    background-color: black;
+    color: white;
+    display: flex;
+}
+body{
+    background-color: black;
+}
+.logo{
+    display: block;
+    width: 168px;
+    height: 178px;
+}
+h1{
+   display: inline;
+   color: whitesmoke;
+}
+
+nav a{
+    color:wheat;
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.temper{
+    background-image: url(temerario\ 1.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+
+.rev{
+    background-image: url(Revuelto\ 1.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+
+.urus{
+    background-image: url(urus\ 1.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+
+.Countach{
+    background-image: url(countach\ 1.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+footer p{
+    width: 100%;
+}
+.Terzo{
+    background-image: url(terzo\ 1.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+
+.Sport{
+    background-image: url(sport\ car\ 1.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+
+.Sian{
+    background-image: url(Sian.webp);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+
+.Asterion{
+    background-image: url(asterion\ 1.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+.Estoque{
+    background-image: url(estoque\ 1.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+p{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.767);
+    width: 60%;
+    
+    padding-top: 100px;
+    padding-left: 60px;
+    padding-bottom: 100px;
+    padding-right: 60px;
+}
